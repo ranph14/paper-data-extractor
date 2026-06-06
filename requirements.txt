@@ -1,0 +1,4 @@
+﻿pymupdf>=1.24.0
+openai>=1.0.0
+pandas>=2.0.0
+ollama>=0.4.0
